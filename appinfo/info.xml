@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<info>
+    <id>inline_menu</id>
+    <name>Inline Menu</name>
+    <description>Replace the default pop-down navigation menu with an inline menu on larger screens (width >=768px).</description>
+    <category>Customization</category>
+    <version>10.0.0</version>
+    <licence>AGPL</licence>
+    <author>Lukas Koschmieder</author>
+    <dependencies>
+        <owncloud min-version="10.0" max-version="10" />
+    </dependencies>
+    <repository type="git">https://github.com/AixViPMaP/inline_menu.git</repository>
+</info>
+
